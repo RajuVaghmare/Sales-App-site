@@ -1,0 +1,12 @@
+
+#logout{
+background-color: transparent;
+border: none;
+color: white;
+}
+
+.disabled-link {
+    pointer-events: none;
+    color: #ccc; /* optional: grey out the link */
+  }
+  
