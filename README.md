@@ -37,7 +37,7 @@ Follow these steps to run the Sales App on your local machine:
 1. **Clone the repository.**
 
     ```bash
-    git clone https://github.com/RajuVaghmare/sales-app.git
+   https://github.com/RajuVaghmare/sales-app
     ```
 
 2. **Navigate to the `backend` directory and install backend dependencies.**
